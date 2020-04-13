@@ -1,4 +1,4 @@
-# CS50-MARIO-LESS
+# CS50-MARIO-LESS (PSET1 CS50 INRODUCTION TO COMPUTER SCIENCE HARVARD)
 
 <strong>World 1-1</strong>
 Toward the end of World 1-1 in Nintendo’s Super Mario Brothers, Mario must ascend right-aligned pyramid of blocks, a la the below.
