@@ -70,4 +70,8 @@ Height: 4
 
 First, write in pseudocode.txt at right some pseudocode that implements this program, even if not (yet!) sure how to write it in code. There’s no one right way to write pseudocode, but short English sentences suffice. Recall how we wrote pseudocode for finding Mike Smith. Odds are your pseudocode will use (or imply using!) one or more functions, conditions, Boolean expressions, loops, and/or variables.
 
+<strong>INSTRUCTIONS</strong>
+1. Download and unzip the repository folder.
+2. Open, compile and run the mario.c file in a C compiler.
+
 Author: Andrés R. Bucheli
