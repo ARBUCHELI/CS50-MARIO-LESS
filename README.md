@@ -74,4 +74,4 @@ First, write in pseudocode.txt at right some pseudocode that implements this pro
 1. Download and unzip the repository folder.
 2. Open, compile and run the mario.c file in a C compiler.
 
-Author: Andrés R. Bucheli
+# Author: Andrés R. Bucheli
