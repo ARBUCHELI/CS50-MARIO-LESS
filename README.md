@@ -22,6 +22,7 @@ Here’s how the program might work if the user inputs 8 when prompted:
 
 $ ./mario
 Height: 8
+
            #
           ##
          ###
@@ -35,23 +36,26 @@ Here’s how the program might work if the user inputs 4 when prompted:
 
 $ ./mario
 Height: 4
-   #
-  ##
- ###
-####
+          
+          #
+         ##
+        ###
+       ####
 
 Here’s how the program might work if the user inputs 2 when prompted:
 
 $ ./mario
 Height: 2
- #
-##
+
+         #
+        ##
 
 And here’s how the program might work if the user inputs 1 when prompted:
 
 $ ./mario
 Height: 1
-#
+
+         #
 
 If the user doesn’t, in fact, input a positive integer between 1 and 8, inclusive, when prompted, the program should re-prompt the user until they cooperate:
 
@@ -61,10 +65,11 @@ Height: 0
 Height: 42
 Height: 50
 Height: 4
-   #
-  ##
- ###
-####
+
+         #
+        ##
+       ###
+      ####
 
 <strong>Pseudocode</strong>
 
