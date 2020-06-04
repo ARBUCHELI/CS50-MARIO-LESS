@@ -82,6 +82,6 @@ First, write in pseudocode.txt at right some pseudocode that implements this pro
 
 <strong>INSTRUCTIONS</strong>
 1. Download and unzip the repository folder.
-2. Open, compile and run the mario.c file in a C compiler to see the project.
+2. Open, compile and run the mario.c file in the CS50 IDE to see the project. If you want to run the project in other C compiler you should try to replace the cs50 library.
 
 # Author: Andrés R. Bucheli
