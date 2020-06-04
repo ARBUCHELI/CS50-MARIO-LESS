@@ -82,7 +82,7 @@ First, write in pseudocode.txt at right some pseudocode that implements this pro
 
 <strong>INSTRUCTIONS</strong>
 1. Download and unzip the repository folder.
-2. Open, compile and run the mario.c file in the CS50 IDE to see the project. If you want to run the project in other C compiler you should try to replace the cs50.h library for a function that implements similar functionality.  For example scanf. [scanf](https://stackoverflow.com/questions/865284/what-is-the-easiest-way-to-get-an-int-in-a-console-app)
+2. Open, compile and run the mario.c file in the CS50 IDE to see the project. If you want to run the project in other C compiler you should try to replace the cs50.h library for a function that implements similar functionality.  For example [scanf].(https://stackoverflow.com/questions/865284/what-is-the-easiest-way-to-get-an-int-in-a-console-app)
 
 
 # Author: Andrés R. Bucheli
